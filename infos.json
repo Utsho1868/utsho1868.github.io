@@ -1,9 +1,8 @@
 {
-  "regFee": "Registration fee: Tk 1000"
-  "regLocation": "Registration Location: Millennium Stars"
-  "coursePeriod": "Course Period: Jan 1 - Jan 30"
-  "regEndDate": " Registration End Date: Dec 20"
+  "regFee": "Registration fee: Tk 1000",
+  "regLocation": "Registration Location: Millennium Stars",
+  "coursePeriod": "Course Period: Jan 1 - Jan 30",
+  "regEndDate": " Registration End Date: Dec 20",
   "cost": "Class Time: Monday 3-4 pm, , Wednesday 4-5 pm, Location: Computer Lab, Millenium Stars",
-  "deadline": "3/4/2019",
-  "time": '7pm'
+  "deadline": "3/4/2019"
 }
