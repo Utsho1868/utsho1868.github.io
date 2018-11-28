@@ -1,4 +1,6 @@
 {
+  "eligibility": "Eligibility",
+  "eligibilityDetails": "Grade/Class: 1,2,3,4",
   "regFee": "Registration fee:",
   "regFeeDetails":"Tk 1000",
   "regLocation": "Registration Location:",
