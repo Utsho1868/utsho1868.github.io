@@ -1,10 +1,16 @@
 {
   "regFee": "Registration fee:",
-  "regLocation": "Tk 1000",
-  "coursePeriod": "Course Period: Jan 1 - Jan 30",
-  "regEndDate": "Registration End Date: Dec 20",
-  "classTime": "Class Time: Monday 3-4 pm, , Wednesday 4-5 pm",
-  "classLocation": "Location: Computer Lab, Millenium Stars",
+  "regFeeDetails":"Tk 1000",
+  "regLocation": "Registration Location:",
+  "regLocationDetails":"Millennium Stars",
+  "coursePeriod": "Course Period:",
+  "coursePeriodDetails": "Jan 1 - Jan 31",
+  "regEndDate": "Registration End Date:",
+  "regEndDateDetails":"31st December",
+  "classTime": "Class Time:",
+  "classTimeDetails": "Monday 3-4 pm, Wednesday 3-4 pm",
+  "classLocation": "Location:",
+  "classLocationDetails": "Computer Lab, Millennium Stars",
   "classDetails": " ",
   "deadline": "3/4/2019"
 }
