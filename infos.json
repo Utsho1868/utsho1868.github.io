@@ -1,21 +1,55 @@
-{
-  "eligibility": "Eligibility",
-  "eligibilityDetails": "Grade/Class: 3,4,6,7",
-  "regFee": "Registration fee:",
-  "regFeeDetails":"Tk 1000",
-  "regLocation": "Registration Location:",
-  "regLocationDetails":"Millennium Stars",
-  "coursePeriod": "Course Period:",
-  "coursePeriodDetails": "July 2 - August 15",
-  "regEndDate": "Batch A:",
-  "regEndDateDetails":"Sunday, Tuesday at 1:40pm",
-  "classTime": "Batch B:",
-  "classTimeDetails": "Monday and Wednesday at 1:40pm",
-  "classLocation": "Location:",
-  "classLocationDetails": "Computer Lab, Millennium Stars",
-  "classDetails": " ",
-  "contactDetails": "Contact Details:",
-  "phone": "Phone: 01750155725",
-  "email": "Email: codefun8@gmail.com",
-  "rights": "All rights reserved by Code Fun @ 2018 Rangpur, Bangladesh"
-}
+
+[
+    {
+        "name" : "Kevin",
+        "Unit" : "Comp1000"
+    },
+    {
+        "name" : "Aladin",
+        "Unit" : "Psyc1010"
+    },
+    {
+        "name" : "James",
+        "Unit" : "COMP1010"
+    },
+    {
+        "name" : "Samanth",
+        "Unit" : "Eng100"
+    },
+    {
+        "name" : "Harry",
+        "Unit" : "COMP2020"
+    },
+    {
+        "name" : "Berlin",
+        "Unit" : "Mech1200"
+    },
+    {
+        "name" : "Ashley",
+        "Unit" : "COMP1300"
+    },
+    {
+        "name" : "Banty",
+        "Unit" : "COMP247"
+    },
+    {
+        "name" : "Lampard",
+        "Unit" : "COMP450"
+    },
+    {
+        "name" : "Labu",
+        "Unit" : "Physics"
+    },
+    {
+        "name" : "Harley",
+        "Unit" : "COMP1010"
+    },
+    {
+        "name" : "Runa",
+        "Unit" : "COMP3000"
+    },
+    {
+        "name" : "Pauline",
+        "Unit" : "COMP1700"
+    }  
+]
