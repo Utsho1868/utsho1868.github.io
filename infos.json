@@ -2,11 +2,11 @@
 [
     {
         "name" : "Kevin",
-        "Unit" : "Comp1000"
+        "unit" : "Comp1000"
     },
     {
         "name" : "Aladin",
-        "Unit" : "Psyc1010"
+        "unit" : "Psyc1010"
     },
     {
         "name" : "James",
@@ -14,42 +14,42 @@
     },
     {
         "name" : "Samanth",
-        "Unit" : "Eng100"
+        "unit" : "Eng100, Mech2000"
     },
     {
         "name" : "Harry",
-        "Unit" : "COMP2020"
+        "unit" : "COMP2020"
     },
     {
         "name" : "Berlin",
-        "Unit" : "Mech1200"
+        "unit" : "Mech1200"
     },
     {
         "name" : "Ashley",
-        "Unit" : "COMP1300"
+        "unit" : "COMP1300"
     },
     {
         "name" : "Banty",
-        "Unit" : "COMP247"
+        "unit" : "COMP247"
     },
     {
         "name" : "Lampard",
-        "Unit" : "COMP450"
+        "unit" : "COMP450"
     },
     {
         "name" : "Labu",
-        "Unit" : "Physics"
+        "unit" : "Physics"
     },
     {
         "name" : "Harley",
-        "Unit" : "COMP1010"
+        "unit" : "COMP1010"
     },
     {
         "name" : "Runa",
-        "Unit" : "COMP3000"
+        "unit" : "COMP3000"
     },
     {
         "name" : "Pauline",
-        "Unit" : "COMP1700"
+        "unit" : "COMP1700"
     }  
 ]
