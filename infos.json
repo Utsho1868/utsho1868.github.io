@@ -2,54 +2,82 @@
 [
     {
         "name" : "Kevin",
-        "unit" : "Comp1000"
-    },
-    {
-        "name" : "Aladin",
-        "unit" : "Psyc1010"
-    },
-    {
-        "name" : "James",
-        "Unit" : "COMP1010"
-    },
-    {
-        "name" : "Samanth",
-        "unit" : "Eng100, Mech2000"
-    },
-    {
-        "name" : "Harry",
-        "unit" : "COMP2020"
-    },
-    {
-        "name" : "Berlin",
-        "unit" : "Mech1200"
-    },
-    {
-        "name" : "Ashley",
-        "unit" : "COMP1300"
-    },
-    {
-        "name" : "Banty",
-        "unit" : "COMP247"
+        "unitCode" : "Comp1000",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
     },
     {
         "name" : "Lampard",
-        "unit" : "COMP450"
+        "unitCode" : "Comp1010",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
     },
     {
-        "name" : "Labu",
-        "unit" : "Physics"
+        "name" : "Donna",
+        "unitCode" : "Comp2350",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
     },
     {
-        "name" : "Harley",
-        "unit" : "COMP1010"
+        "name" : "Mardock",
+        "unitCode" : "ENG1000",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
+    },
+    { 
+        "name" : "Ehtesam",
+        "unitCode" : "Karl",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
     },
     {
-        "name" : "Runa",
-        "unit" : "COMP3000"
+        "name" : "Laura",
+        "unitCode" : "ACCG3058",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
     },
     {
-        "name" : "Pauline",
-        "unit" : "COMP1700"
-    }  
+        "name" : "Angelina",
+        "unitCode" : "FIN3000",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
+    },
+    {
+        "name" : "Jennifer",
+        "unitCode" : "BUS3150",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
+    },
+    {
+        "name" : "Papua",
+        "unitCode" : "STAT1750",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
+    },
+    {
+        "name" : "Ronaldo",
+        "unitCode" : "ACCG2350",
+        "unitPic" : "https://picsum.photos/700",
+        "rating" : "6",
+        "description" : "The beauty of engineering, You will love to see the world in a new way!",
+        "price" : "40"
+    }
 ]
